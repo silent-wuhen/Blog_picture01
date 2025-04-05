@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 参数1:替换为 .md 文件路径
-md_file_path="C:\\Users\\wuhen\\Desktop\\计算机科学速成\\1.Crash Course Computer Science（未完结）.md"
+md_file_path="D:\\study\\计算机科学速成\\计算机科学速成.md"
 
 # 参数2:要修改的图片网址前缀
 old_image_prefix="https://github.com/silent-wuhen/Blog_picture01/blob/main/3.%E6%96%87%E6%A1%A3%E5%9B%BE%E7%89%87/1.%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E9%80%9F%E6%88%90"
